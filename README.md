@@ -1,3 +1,3 @@
 ### Hello 👋
 
-- 📫 How to reach me: adam@adamselby.com
+📫 How to reach me: adam@adamselby.com
